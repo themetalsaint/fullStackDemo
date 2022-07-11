@@ -1,0 +1,27 @@
+{
+  "name": "fullstackdemo",
+  "version": "1.0.0",
+  "description": "Working on a side project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themetalsaint/fullStackDemo.git"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "express"
+  ],
+  "author": "Rachael Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themetalsaint/fullStackDemo/issues"
+  },
+  "homepage": "https://github.com/themetalsaint/fullStackDemo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
